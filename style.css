@@ -62,12 +62,12 @@ body {
     color: white;
 }
 
-#zero {
-    width: 40%;
+.row .zero {
+    width: 50%;
 }
 
 #clear {
-    width: 60%;
+    width: 50%;
     background-color: red;
 }
 
